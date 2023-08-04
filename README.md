@@ -1,5 +1,5 @@
 # Paging-System
-# Dinamic
+## Dynamic system of paging to show how the paging system works under the table
 # You can change the datas in datas.py
 
 ![image](https://github.com/goodeny/Paging-System/assets/32174827/5ab8a045-562e-47a6-b33d-069f582c00cb)
